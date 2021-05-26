@@ -1,15 +1,12 @@
 # 개발자를 위한 Q&A 페이지
 ![시연1](./qna1.gif)
 
-## 프론트 엔드 스택
+## 기술 스택
 
 - React.js 
 - GraphQL Apollo 
 - Solidity(Smart Contract)
 - Passport.js
-
-## 백엔드 스택
-
 - Express.js
 - GraphQL Server
 - MongoDB(MongoDB Compass)
